@@ -11,3 +11,5 @@
 - [X] Dia 9 - Criação de um contador.
 - [X] Dia 10 - Feito um gerador de senha.
 - [X] Dia 11 - Usamos a funcao sorted para ordenar uma lista de numeros.    
+- [X] Dia 12 - Busca linear ulitilizando lista.
+- [X] Dia 13 - Funcao fatorial
